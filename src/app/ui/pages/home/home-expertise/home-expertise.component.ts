@@ -110,61 +110,61 @@ export class HomeExpertiseComponent implements OnInit {
   _mTools = [
 
     // design
-    {
-      "id": "5131",
-      "name": "Figma",
-      "logo": "assets/img/tools/figma.svg",
-      "link": "https://www.figma.com/",
-      "tab": "design"
-    },
-    {
-      "id": "5131",
-      "name": "Adobe XD",
-      "logo": "assets/img/tools/xd.png",
-      "link": "https://www.adobe.com/products/xd.html",
-      "tab": "design"
-    },
+    // {
+    //   "id": "5131",
+    //   "name": "Figma",
+    //   "logo": "assets/img/tools/figma.svg",
+    //   "link": "https://www.figma.com/",
+    //   "tab": "design"
+    // },
+    // {
+    //   "id": "5131",
+    //   "name": "Adobe XD",
+    //   "logo": "assets/img/tools/xd.png",
+    //   "link": "https://www.adobe.com/products/xd.html",
+    //   "tab": "design"
+    // },
 
-    {
-      "id": "5132",
-      "name": "Adobe Photoshop",
-      "logo": "assets/img/tools/ps.png",
-      "link": "https://www.adobe.com/products/photoshop.html",
-      "tab": "design"
-    },
-    {
-      "id": "5133",
-      "name": "Adobe Illustrator",
-      "logo": "assets/img/tools/ai.svg",
-      "link": "https://www.adobe.com/products/illustrator.html",
-      "tab": "design"
-    },
-    {
-      "id": "5134",
-      "name": "Ink Scape",
-      "logo": "assets/img/tools/inkscape-logo.svg",
-      "link": "https://inkscape.org/",
-      "tab": "design"
-    },
+    // {
+    //   "id": "5132",
+    //   "name": "Adobe Photoshop",
+    //   "logo": "assets/img/tools/ps.png",
+    //   "link": "https://www.adobe.com/products/photoshop.html",
+    //   "tab": "design"
+    // },
+    // {
+    //   "id": "5133",
+    //   "name": "Adobe Illustrator",
+    //   "logo": "assets/img/tools/ai.svg",
+    //   "link": "https://www.adobe.com/products/illustrator.html",
+    //   "tab": "design"
+    // },
+    // {
+    //   "id": "5134",
+    //   "name": "Ink Scape",
+    //   "logo": "assets/img/tools/inkscape-logo.svg",
+    //   "link": "https://inkscape.org/",
+    //   "tab": "design"
+    // },
 
 
 
     // android
-    {
-      "id": "9110",
-      "name": "Android",
-      "logo": "assets/img/tools/android.svg",
-      "link": "https://developer.android.com/",
-      "tab": "android",
-      "color": "#3DDC84"
-    },
-    {
-      "id": "9112",
-      "name": "Retrofit",
-      "logo": "assets/img/tools/square.png",
-      "link": "http://square.github.io/retrofit/",
-      "tab": "android"
-    },
+    // {
+    //   "id": "9110",
+    //   "name": "Android",
+    //   "logo": "assets/img/tools/android.svg",
+    //   "link": "https://developer.android.com/",
+    //   "tab": "android",
+    //   "color": "#3DDC84"
+    // },
+    // {
+    //   "id": "9112",
+    //   "name": "Retrofit",
+    //   "logo": "assets/img/tools/square.png",
+    //   "link": "http://square.github.io/retrofit/",
+    //   "tab": "android"
+    // },
     {
       "id": "9113",
       "name": "RxJava",
@@ -172,13 +172,13 @@ export class HomeExpertiseComponent implements OnInit {
       "link": "http://reactivex.io/",
       "tab": "android"
     },
-    {
-      "id": "9114",
-      "name": "Jetpack Compose",
-      "logo": "assets/img/tools/pic_jetpack_compose.png",
-      "link": "https://developer.android.com/jetpack/compose",
-      "tab": "android"
-    },
+    // {
+    //   "id": "9114",
+    //   "name": "Jetpack Compose",
+    //   "logo": "assets/img/tools/pic_jetpack_compose.png",
+    //   "link": "https://developer.android.com/jetpack/compose",
+    //   "tab": "android"
+    // },
     {
       "id": "9115",
       "name": "Architecture Components",
@@ -186,35 +186,35 @@ export class HomeExpertiseComponent implements OnInit {
       "link": "https://developer.android.com/topic/architecture",
       "tab": "android"
     },
-    {
-      "id": "9116",
-      "name": "Kotlin",
-      "logo": "assets/img/tools/kotlin-logo.png",
-      "link": "https://kotlinlang.org/",
-      "tab": "android"
-    },
+    // {
+    //   "id": "9116",
+    //   "name": "Kotlin",
+    //   "logo": "assets/img/tools/kotlin-logo.png",
+    //   "link": "https://kotlinlang.org/",
+    //   "tab": "android"
+    // },
 
     // cross
-{
-      "id": "4101",
-      "name": "Flutter",
-      "logo": "assets/img/tools/flutter_logo.svg",
-      "link": "https://flutter.dev/",
-      "tab": "Cross",
-      "color": "#42A5F5"
-    },
+  //  {
+  //     "id": "4101",
+  //     "name": "Flutter",
+  //     "logo": "assets/img/tools/flutter_logo.svg",
+  //     "link": "https://flutter.dev/",
+  //     "tab": "Cross",
+  //     "color": "#42A5F5"
+  //   },
 
     // web
 
     
 
-    {
-      "id": "8102",
-      "name": "Polymer",
-      "logo": "assets/img/tools/polymer.svg",
-      "link": "https://www.polymer-project.org/",
-      "tab": "web"
-    },
+    // {
+    //   "id": "8102",
+    //   "name": "Polymer",
+    //   "logo": "assets/img/tools/polymer.svg",
+    //   "link": "https://www.polymer-project.org/",
+    //   "tab": "web"
+    // },
 
     {
       "id": "8103",
@@ -260,13 +260,13 @@ export class HomeExpertiseComponent implements OnInit {
       "tab": "web",
       "color": "#FF4369"
     },
-    {
-      "id": "8109",
-      "name": "Scully",
-      "logo": "assets/img/tools/scully.svg",
-      "link": "https://https://scully.io/",
-      "tab": "web",
-    },
+    // {
+    //   "id": "8109",
+    //   "name": "Scully",
+    //   "logo": "assets/img/tools/scully.svg",
+    //   "link": "https://https://scully.io/",
+    //   "tab": "web",
+    // },
 
     // backend
 
@@ -317,6 +317,13 @@ export class HomeExpertiseComponent implements OnInit {
       "logo": "assets/img/tools/google-cloud.png",
       "link": "https://cloud.google.com/",
       "tab": "cloud"
+    },
+    {
+      "id": "8109",
+      "name": "AWS",
+      "logo": "assets/img/tools/Amazon_Logo.wine.png",
+      "link": "https://https://scully.io/",
+      "tab": "web",
     },
 
 
